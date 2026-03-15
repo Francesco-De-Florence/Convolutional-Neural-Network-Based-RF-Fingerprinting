@@ -1,5 +1,6 @@
 
-## Identify wireless devices by their unique radio frequency hardware signatures using deep learning.
+## Convolutional-Neural-Network-Based-RF-Fingerprinting
+
 
 ## 🧭 Table of Contents
 
