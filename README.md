@@ -1,8 +1,5 @@
 
-#Identify wireless devices by their unique radio frequency hardware signatures using deep learning.
-
-
----
+## Identify wireless devices by their unique radio frequency hardware signatures using deep learning.
 
 ## 🧭 Table of Contents
 
