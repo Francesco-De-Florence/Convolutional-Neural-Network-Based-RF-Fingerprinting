@@ -3,11 +3,6 @@
 
 > **Identify wireless devices by their unique radio frequency hardware signatures using deep learning.**
 
-<br/>
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/rf-fingerprinting/blob/main/RF_Fingerprinting_CNN.ipynb)
-
-</div>
 
 ---
 
